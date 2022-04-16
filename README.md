@@ -1,5 +1,4 @@
 ### 🪙 Donations
-<div align="center">
 - bc1q6tlw3umhejmzxdk5vjt7kc59uvtpapqs4csq88
 - 0x4C34c4caCb951d0cE14bfb5AF1fc89A8Ea180121
 - LdkGWq85GYSyfegEHytj55KYWAk2BNgMiL
