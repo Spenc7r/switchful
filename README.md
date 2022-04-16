@@ -1,9 +1,3 @@
-### 🪙 Donations
-<div align="center">
-- bc1q6tlw3umhejmzxdk5vjt7kc59uvtpapqs4csq88
-- 0x4C34c4caCb951d0cE14bfb5AF1fc89A8Ea180121
-- LdkGWq85GYSyfegEHytj55KYWAk2BNgMiL
-
 ## 📊 Statistics
 <div align="center">
 
@@ -13,4 +7,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=switchful&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=radical)
 
+### 🪙 Donations
+<div align="center">
+- bc1q6tlw3umhejmzxdk5vjt7kc59uvtpapqs4csq88  
+  
 </div>
