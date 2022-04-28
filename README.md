@@ -1,6 +1,3 @@
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=h9nia6uw1xwzbuwp8dpktz9oc&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false"/>
-</p>
-
 #### My Socials 🔗
 
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/787357615051112501)
